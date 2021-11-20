@@ -1,3 +1,5 @@
+<img src="https://images.fineartamerica.com/images-medium-large-5/simple-shell-2-monica-margarida.jpg" width="160" height=auto />
+
 # Simple_shell
 
 ## Description

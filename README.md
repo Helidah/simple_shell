@@ -2,6 +2,9 @@
 
 ## Description
 This is a simple UNIX Command Line Intepreter that copies the functionalities of shell (sh).
+The shell is a command line interface (CLI) program that takes commands from the keyboard and gives them to the operating system to perform.
+A Shell provides you with an interface to the Unix system. It gathers input from you and executes programs based on that input. When a program finishes executing, it displays that program's output.
+This shell will give us the foundation to work on projects that require a console, such as the AIR BnB clone project. 
 
 ## Installation
 Clone this repository into your working directory. Files should be compiled with GCC and the following flags: -Wall -Wextra -Werror -pedantic -Wno-format.

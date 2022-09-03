@@ -23,7 +23,7 @@ Echo your desired command and pipe it into the program like this:
 echo `"ls" | .hsh`
 
 ## AUTHORS
-This file contains the details of all the individuals that contributed to this shell project.
+Helidah Wagude & Mitakeey 
 
 ## Features
 `1.` Display a prompt and wait for the user to type a command. A command line always ends with a new line.
